@@ -1,0 +1,24 @@
+.jumbotron{
+    padding-top: 6rem;
+    padding-bottom: 1rem;
+    background-color: #f3f3f3;
+/}
+#about {
+    background-color: #85c1e9
+}
+#education {
+    background-color: #f3f3f3
+}
+#projects {
+    background-color: #a9cce3
+}
+#contact {
+    background-color: #1b4f72;
+    color: white;
+}
+#navbar{
+    background-color: #1b4f72;
+}
+section{
+    padding-top: 5rem;
+}
